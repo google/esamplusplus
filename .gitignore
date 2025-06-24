@@ -1,0 +1,38 @@
+.nfs*
+# thirdparty/
+data/
+
+
+*/__pycache__
+*__pycache__*
+work_dirs/
+# MinkowskiEngine/
+
+*.pyc
+__pycache__/
+*.pt
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+>>>>>>> c5a39477a62ff4f15a0d9bf51d4ba70af71cdac8
