@@ -1,6 +1,6 @@
 # ESAM++: Efficient Online 3D Perception on the Edge
 
-This repo implements the core component, an efficient point clound encoder, in the paper ```ESAM++: Efficient Online 3D Perception on the Edge```. 
+This repo implements the core component, an efficient point cloud encoder, in the paper ```ESAM++: Efficient Online 3D Perception on the Edge```. 
 
 ## Overview
 ESAM++ is an efficient online 3D perception model that achieves real-time performance using only CPU. This repo implements our core contribution: an efficient hirerarchical sparse feature pyramid network. 
